@@ -6,11 +6,16 @@
   font-weight: 300;
 }
 .jumbotron {
-  background-image: url("../img/1.jpg");
+  background-image: url("../img/2.jpg");
   background-size: cover;
-  color: black;  
+  color: white;  
   height: 100%;
 }
 .position{
 	height: 50%;
+}
+.example1 {
+ height: 50px;	
+ overflow: hidden;
+ position: relative;
 }
